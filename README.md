@@ -1,5 +1,7 @@
 # AdaptiveOptimal-Control
 Adaptive Optimal control for Linear Systems
+
+
 Summary of the project is available in the report
 
 'RLC_policy.slx': simulink file for the policy iteration algorithm. Running it should generate the required output
